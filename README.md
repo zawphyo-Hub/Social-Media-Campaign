@@ -5,12 +5,15 @@ The Social Media Awareness Campaign is an interactive website designed to educat
 
 # Key Features
 
-(1) Educational Content Hub 
+(1) Educational Content
+
 Provides well-structured safety tips and guidelines to help users understand online risks.
 
 (2) Advanced Search Functionality
+
 Implemented using PHP and JavaScript, allowing users to quickly find relevant safety guidelines.
 
 (3) Dynamic Content Management 
+
 Admins can add, update, and delete content through a user-friendly interface.
 Content is stored in PhpMyAdmin, ensuring up-to-date and accurate information is displayed.
